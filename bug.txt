@@ -1,0 +1,9 @@
+1. ID
+2. Severity
+3. Enviroment
+4. Title
+5. Steps
+6. ER
+7. AR
+8. Link
+9.Attach
